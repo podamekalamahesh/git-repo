@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.black.virtual.point.of.contact.AppTest" time="0.001" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="maven"/>
+    <property name="PWD" value="/"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/var/lib/jenkins"/>
+    <property name="PATH" value="/var/lib/jenkins/tools/hudson.model.JDK/java/bin:/sbin:/usr/sbin:/bin:/usr/bin"/>
+    <property name="HUDSON_SERVER_COOKIE" value="7bae7490407a1ff3"/>
+    <property name="POM_ARTIFACTID" value="SchoolsPOC"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.boot.class.path" value="/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/resources.jar:/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/rt.jar:/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/sunrsasign.jar:/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/jsse.jar:/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/jce.jar:/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/charsets.jar:/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/jfr.jar:/var/lib/jenkins/tools/hudson.model.JDK/java/jre/classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="SchoolsPOC"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.runtime.version" value="1.8.0_141-b15"/>
+    <property name="user.name" value="jenkins"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="maven"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://54.250.138.33:8080/job/maven/2/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="sun.boot.library.path" value="/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/amd64"/>
+    <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="4f44df076837a06753e58c6d4bb6360b1eaac388"/>
+    <property name="java.version" value="1.8.0_141"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="NLSPATH" value="/usr/dt/lib/nls/msg/%L/%N.cat"/>
+    <property name="java.endorsed.dirs" value="/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/endorsed"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven/conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="java.home" value="/var/lib/jenkins/tools/hudson.model.JDK/java/jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="3.10.0-514.21.2.el7.x86_64"/>
+    <property name="RUN_DISPLAY_URL" value="http://54.250.138.33:8080/job/maven/2/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="sun.font.fontmanager" value="sun.awt.X11FontManager"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.141-b15"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="4f44df076837a06753e58c6d4bb6360b1eaac388"/>
+    <property name="JOB_DISPLAY_URL" value="http://54.250.138.33:8080/job/maven/display/redirect"/>
+    <property name="SHLVL" value="2"/>
+    <property name="_" value="/etc/alternatives/java"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="JAVA_HOME" value="/var/lib/jenkins/tools/hudson.model.JDK/java"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="LOGNAME" value="jenkins"/>
+    <property name="POM_PACKAGING" value="pom"/>
+    <property name="HOME" value="/var/lib/jenkins"/>
+    <property name="POM_GROUPID" value="com.black.virtual"/>
+    <property name="user.home" value="/var/lib/jenkins"/>
+    <property name="BUILD_TAG" value="jenkins-maven-2"/>
+    <property name="JENKINS_SERVER_COOKIE" value="7bae7490407a1ff3"/>
+    <property name="HUDSON_URL" value="http://54.250.138.33:8080/"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="/var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven"/>
+    <property name="java.class.path" value="/var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.11.jar:/var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven/boot/plexus-classworlds-2.5.2.jar:/var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven /var/cache/jenkins/war/WEB-INF/lib/remoting-3.7.jar /var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.11.jar /var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.11.jar 33622"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PATH+JDK" value="/var/lib/jenkins/tools/hudson.model.JDK/java/bin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="/var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="HUDSON_HOME" value="/var/lib/jenkins"/>
+    <property name="PATH+MAVEN" value="/var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven/bin"/>
+    <property name="BUILD_URL" value="http://54.250.138.33:8080/job/maven/2/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.ext.dirs" value="/var/lib/jenkins/tools/hudson.model.JDK/java/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="user.dir" value="/var/lib/jenkins/workspace/maven/SchoolsPOC"/>
+    <property name="JOB_URL" value="http://54.250.138.33:8080/job/maven/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="/var/lib/jenkins/tools/hudson.tasks.Maven_MavenInstallation/maven"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="JENKINS_URL" value="http://54.250.138.33:8080/"/>
+    <property name="GIT_BRANCH" value="origin/schoolpoc"/>
+    <property name="GIT_COMMIT" value="4f44df076837a06753e58c6d4bb6360b1eaac388"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="LANG" value="en_US.UTF-8"/>
+    <property name="maven3.interceptor" value="/var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.11.jar"/>
+    <property name="WORKSPACE" value="/var/lib/jenkins/workspace/maven"/>
+    <property name="maven3.interceptor.common" value="/var/lib/jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.11.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="USER" value="jenkins"/>
+    <property name="GIT_URL" value="https://github.com/sivanagit/gitrepo.git"/>
+    <property name="XFILESEARCHPATH" value="/usr/dt/app-defaults/%L/Dt"/>
+  </properties>
+  <testcase classname="com.black.virtual.point.of.contact.AppTest" name="testApp" time="0.001"/>
+</testsuite>
